@@ -1,0 +1,5 @@
+FID, FID_1, OBJECTID, Parcel_ID, area_m2, image, panoId, EC_id,
+confidence, col, bottom_row, top_row, FFE_gsv_m, delta_h, distance,
+sink_dista, camera_h, camera_dem, phi, pano_lat, pano_lon, target_lat, target_lon, image_date,
+edge,
+is_lowest_, SFHA_TF, STATIC_BFE, Under_fld,
