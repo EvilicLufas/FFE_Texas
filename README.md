@@ -2,7 +2,7 @@
 
 
 
-![image-20230203061638214](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203061638214.png)
+![image-20230203061638214](https://s2.loli.net/2023/02/03/tlI4WeoyFnZC63K.png)
 
 ​							**Fig. 1. The pipeline of the proposed workflow**
 
@@ -24,13 +24,13 @@ To obtain and process target houses’ SVIs, the corresponding altitudes, azimut
 
 After validating the applicability of the calculation method using GSVs for three Galveston neighborhoods, we extended our workflow to all of Galveston Island. 
 
-![image-20230203064422252](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203064422252.png)
+![image-20230203064422252](https://s2.loli.net/2023/02/03/hW3Iarc5kgUYTPu.png)
 
 **Fig. S1. (a) FFE data derived from our model compared with Galveston_FFEData2020 dataset, including E.C. dataset  (b) Spatial distribution of errors associated with this comparison**
 
 As described in the Section G of the Supplementary Materials, 8,897 effective results remained after the entire procedure. From a total of 26,054 building footprints in Galveston, we successfully captured a total of 130,272 GSV images.; the overview of the data is depicted in the Section G of the Supplementary Materials, and the interactive dashboard is depicted in Figure 2.
 
-![image-20230203063940666](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203063940666.png)
+![image-20230203063940666](https://s2.loli.net/2023/02/03/dZIExObeJgz9PFX.png)
 
 **Fig. 2. Dashboard of the detected FFE results within BFE mapping**
 
@@ -44,17 +44,17 @@ Following the removal of unreliable results derived from the outdated GSVs (i.e.
 
 It is worth noting that many of the zones for which BFE data is empty in the FFE distribution map correspond to areas with 0.2% annual chance of flooding (white-colored land areas in Figure S5); also known as the 500-year floodplain, these areas have an annual flood risk below the 1% threshold that FEMA has set for establishing BFE values.
 
-![image-20230203064141356](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203064141356.png)
+![image-20230203064141356](https://s2.loli.net/2023/02/03/NhJvaLOlz4WPVte.png)
 
 **Fig. S5. The distribution of FFEs in different BFE regions of Galveston Island (0.2% annual chance flood zone has no BFE data)**
 
 ##### ****Section I: Distribution of Building-scale Elevation Cost of Residential Houses\****
 
-![image-20230203064528027](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203064528027.png)
+![image-20230203064528027](https://s2.loli.net/2023/02/03/38EVuQJN7iDHf4C.png)
 
 **Fig. S6. The distribution of building-scale elevation cost of residential houses in different BFE regions of Galveston Island (0.2% annual chance flood zone has no BFE data)**
 
-![image-20230203064706403](/media/v/Elements SE/A_CUHK/Galveston_weights_YOLO_0625/FFE_estimation_in_Galveston/assets/image-20230203064706403.png)
+![image-20230203064706403](https://s2.loli.net/2023/02/03/hW7SIEcLlxBmv1X.png)
 
 **Fig.** **S9**. **Building-Scale Elevation Cost Visualization Demo  (**[ **https://experience.arcgis.com/experience/30837ddf6000410a8533140f82ee395c** ](https://experience.arcgis.com/experience/30837ddf6000410a8533140f82ee395c)**).**
 
